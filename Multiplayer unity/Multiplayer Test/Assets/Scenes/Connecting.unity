@@ -421,6 +421,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c954880b0519814ba6a4e854b1d96c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  connectingTxt: {fileID: 992318949}
 --- !u!4 &660993242
 Transform:
   m_ObjectHideFlags: 0
@@ -588,7 +589,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Connecting....
+  m_Text: Connecting
 --- !u!222 &992318950
 CanvasRenderer:
   m_ObjectHideFlags: 0
